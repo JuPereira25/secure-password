@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ltl9Vw5YKf4=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\DELTA\\Desktop\\secure-password\\secure-password\\secure-password.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DELTA\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.11\\microsoft.aspnetcore.openapi.10.0.11.nupkg.sha512",
+    "C:\\Users\\DELTA\\.nuget\\packages\\microsoft.openapi\\2.7.5\\microsoft.openapi.2.7.5.nupkg.sha512"
+  ],
+  "logs": []
+}
