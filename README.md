@@ -1,6 +1,6 @@
 # Secure Password
 
-API simples em ASP.NET Core para verificar se uma senha é segura.
+Solução implementada em API ASP.NET Core para o desafio de senha segura descrita em PROBLEM.md.
 
 ## Regras da senha
 
